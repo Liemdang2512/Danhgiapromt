@@ -1,0 +1,5 @@
+{
+  "name": "PromptMaster AI Analyzer",
+  "description": "A high-end professional tool for Prompt Engineering analysis and optimization, powered by Gemini 3 Pro. Evaluates prompt structure, quality, and provides optimized versions based on industry-standard frameworks like RISE and CRISPE.",
+  "requestFramePermissions": []
+}
